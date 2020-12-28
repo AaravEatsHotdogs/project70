@@ -1,0 +1,38 @@
+.my_nav_bar{
+position: sticky;
+top:0;
+z-index: 9999;
+}
+html{
+scroll-behavior: smooth;
+}
+li{
+text-decoration: none;
+}
+body{
+text-align: center;
+}
+#swes{
+width: 500px;
+}
+#header{
+font-size: 30px;
+}
+.movie_head i{
+float:right;
+padding-right: 20px;
+}
+.movie_head{
+border-radius: 10px;
+width: 500px;
+margin-left: 500px;
+margin-bottom: 50px;
+}
+#new_school img{
+width: 200;
+height: 100px;
+}
+#face_mask img{
+width: 200;
+height: 100px;
+}
